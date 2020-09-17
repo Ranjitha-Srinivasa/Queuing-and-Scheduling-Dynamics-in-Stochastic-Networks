@@ -1,4 +1,4 @@
-# code to be run in jupyter 
+# code to be run in jupyter , code given for part 2 (b)
 # code to be changed accordingly to part 2 (a) and part 2(b), change max_a and max_b
 
 import matplotlib.pyplot as plt
